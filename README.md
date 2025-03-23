@@ -3,7 +3,7 @@ Este projeto tem como objetivo realizar o reconhecimento de texto (OCR) em image
 
 ## Estrutura do Projeto
 - **inputs**: Contém as imagens usadas no projeto
-- **output/**: Contém o arquivo `.txt` com o texto extraído de cada imagem e a descrição gerada pelo Copilot
+- **output**: Contém o arquivo `.txt` com o texto extraído de cada imagem e a descrição gerada pelo Copilot
 
 ## Prints do Processo
 ![image](https://github.com/user-attachments/assets/429fb6ec-ec3d-4c65-92ef-3f4c9799a176)
