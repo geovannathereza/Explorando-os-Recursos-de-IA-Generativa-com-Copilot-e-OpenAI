@@ -1,4 +1,4 @@
-# Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI
+# Explorando os Recursos de IA Generativa com Copilot e OpenAI
 Este projeto tem como objetivo realizar o reconhecimento de texto (OCR) em imagens usando o **Microsoft Copilot** como ferramenta principal.
 
 ## Estrutura do Projeto
